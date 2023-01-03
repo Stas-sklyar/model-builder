@@ -48,7 +48,7 @@
   },
   "scripts": {
     "start": "vite --host",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "serve": "vite preview --host",
     "run-rabbit-mq": "node rabbitmq.js"
   },
